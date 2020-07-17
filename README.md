@@ -30,6 +30,18 @@
 
 </div>
 
+---
+
+### Professional experience:
+**Inguo.io, Inc**  
+***Software Engineer Intern***  
+*May 2020 - present*
+
+
+**Stony Brook University Dept. of Communication & Marketing**  
+***Front End Software Engineer Intern***  
+*Feb 2020 - May 2020*
+
 
 
 
