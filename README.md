@@ -2,7 +2,7 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/48px-Unofficial_JavaScript_logo_2.svg.png" >
 
-![](https://www.probytes.net/wp-content/uploads/2019/07/java-logo-vector-768x768.png)
+![]()
 <img src="https://www.probytes.net/wp-content/uploads/2019/07/java-logo-vector-768x768.png"  width="48" height="48">
 
 
