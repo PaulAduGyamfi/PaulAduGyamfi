@@ -1,4 +1,4 @@
-<link rel="stylesheet" type="text/css" media="all" href="global.css" />
+<link rel="stylesheet" type="text/css" media="all" href="./global.css" />
 
 
 ### I am experienced, and have also leveraged my knowledge through work experience, in the following:
