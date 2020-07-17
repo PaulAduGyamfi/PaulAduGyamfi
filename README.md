@@ -18,10 +18,17 @@
 
 
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQFrj9cl51Ctlu6CeIuifrKojdIAvdNAg1deA&usqp=CAU"  width="48" height="48">
+  
+  <img src="https://seeklogo.com/images/K/kubernetes-logo-3A67038EAB-seeklogo.com.png"  width="48" height="48">
+  
+  <img src="https://seeklogo.com/images/T/typescript-logo-B29A3F462D-seeklogo.com.png"  width="48" height="48">
+  
+  
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png"  width="48" height="48">
 
 
 <!--
-<img src="https://www.probytes.net/wp-content/uploads/2019/07/java-logo-vector-768x768.png"  width="48" height="48">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png"  width="48" height="48">
 
 <img src="https://www.probytes.net/wp-content/uploads/2019/07/java-logo-vector-768x768.png"  width="48" height="48">
 
