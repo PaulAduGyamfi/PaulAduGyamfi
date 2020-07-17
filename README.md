@@ -1,4 +1,4 @@
-### I am experienced, and have also leveraged my knowledge through work experience, in the following:
+### I am proficient, and have also leveraged my knowledge through work experience, in the following:
 
 <div class="programmig">
   <img title="Javascript" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/48px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48">
