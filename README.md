@@ -1,9 +1,28 @@
-<link rel="stylesheet" type="text/css" media="all" href="./global.css" />
-
-
 ### I am experienced, and have also leveraged my knowledge through work experience, in the following:
 
-![Screenshot](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/48px-Unofficial_JavaScript_logo_2.svg.png" >
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 <!--
