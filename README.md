@@ -1,3 +1,4 @@
+<link rel="stylesheet" type="text/css" media="all" href="global.css" />
 ### Hi there 👋
 
 <!--
