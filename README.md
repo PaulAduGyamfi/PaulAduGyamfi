@@ -1,9 +1,19 @@
 ### I am experienced, and have also leveraged my knowledge through work experience, in the following:
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/48px-Unofficial_JavaScript_logo_2.svg.png" >
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/48px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48">
 
-![]()
 <img src="https://www.probytes.net/wp-content/uploads/2019/07/java-logo-vector-768x768.png"  width="48" height="48">
+
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/320px-React-icon.svg.png"  width="59" height="45">
+
+
+
+
+
+
+
+
 
 
 
