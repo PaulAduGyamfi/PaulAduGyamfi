@@ -6,7 +6,7 @@
   <img src="https://www.probytes.net/wp-content/uploads/2019/07/java-logo-vector-768x768.png"  width="48" height="48">
 
 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/320px-React-icon.svg.png"  width="59" height="45">
+  <img src="https://cdn.worldvectorlogo.com/logos/react.svg"  width="48" height="48">
 
 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png"  width="80" height="48">
@@ -30,7 +30,7 @@
 </div>
 
 
-![very good|768x768,10%](https://www.probytes.net/wp-content/uploads/2019/07/java-logo-vector-768x768.png)
+
 
 
 
