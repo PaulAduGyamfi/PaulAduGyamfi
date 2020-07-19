@@ -1,4 +1,7 @@
-### I am proficient, and have also leveraged my knowledge through work experience, in the following:
+
+
+
+## I am proficient, and have also leveraged my knowledge through work experience, in the following:
 
 <div class="programmig">
   <img title="Javascript" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/48px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48">
@@ -30,9 +33,8 @@
 
 </div>
 
----
 
-### Professional experience:
+## Professional experience:
 **Inguo.io, Inc**  
 ***Software Engineer Intern***  
 *May 2020 - present*
@@ -43,9 +45,11 @@
 *Feb 2020 - May 2020*
 
 
+## Contact Me
 
-
-
+- LinkedIn - [Paul Adu-Gyamfi](https://www.linkedin.com/in/paul-adu-gyamfi/)
+- Personal site - [pauladugyamfi.com](https://pauladugyamfi.com/)
+- Email - [pjadu7@gmail.com](pjadu7@gmail.com)
 
 
 
