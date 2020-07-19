@@ -1,13 +1,13 @@
 # Paul Adu-Gyamfi - @PaulAduGyamfi
 
 ## Professional experience:
-- **Inguo.io, Inc**  
-***Software Engineer Intern***  
+**Inguo.io, Inc**  
+*Software Engineer Intern*  
 
 
 
-- **Stony Brook University Dept. of Communication & Marketing**  
-***Front End Software Engineer Intern***  
+**Stony Brook University Dept. of Communication & Marketing**  
+*Front End Software Engineer Intern*  
 
 
 
