@@ -1,7 +1,7 @@
 # Paul Adu-Gyamfi - @PaulAduGyamfi
 
 ## Professional experience:
-**Inguo.io, Inc**  
+**Inguo.io, Inc.**  
 *Software Engineer Intern*  
 
 
