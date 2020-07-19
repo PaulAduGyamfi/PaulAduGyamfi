@@ -15,7 +15,7 @@
 
 LinkedIn - [Paul Adu-Gyamfi](https://www.linkedin.com/in/paul-adu-gyamfi/)   
 Personal site - [pauladugyamfi.com](https://pauladugyamfi.com/)  
-Email - [pjadu7@gmail.com](pjadu7@gmail.com)
+Email - [pjadu7@gmail.com](mailto:pjadu7@gmail.com)
 
 
 ##
