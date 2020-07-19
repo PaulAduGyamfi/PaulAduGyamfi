@@ -1,4 +1,4 @@
-# Jake Gutierrez - @jakeryang
+# Paul Adu-Gyamfi - @PaulAduGyamfi
 
 ## Professional experience:
 **Inguo.io, Inc**  
