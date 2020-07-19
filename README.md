@@ -47,9 +47,9 @@
 
 ## Contact Me
 
-- LinkedIn - [Paul Adu-Gyamfi](https://www.linkedin.com/in/paul-adu-gyamfi/)
-- Personal site - [pauladugyamfi.com](https://pauladugyamfi.com/)
-- Email - [pjadu7@gmail.com](pjadu7@gmail.com)
+LinkedIn - [Paul Adu-Gyamfi](https://www.linkedin.com/in/paul-adu-gyamfi/)   
+Personal site - [pauladugyamfi.com](https://pauladugyamfi.com/)  
+Email - [pjadu7@gmail.com](pjadu7@gmail.com)
 
 
 
