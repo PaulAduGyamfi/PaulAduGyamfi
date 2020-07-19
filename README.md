@@ -1,7 +1,24 @@
+# Jake Gutierrez - @jakeryang
+
+## Professional experience:
+**Inguo.io, Inc**  
+***Software Engineer Intern***  
+*May 2020 - present*
 
 
+**Stony Brook University Dept. of Communication & Marketing**  
+***Front End Software Engineer Intern***  
+*Feb 2020 - May 2020*
 
-## I am proficient, and have also leveraged my knowledge through work experience, in the following:
+
+## Contact Me
+
+LinkedIn - [Paul Adu-Gyamfi](https://www.linkedin.com/in/paul-adu-gyamfi/)   
+Personal site - [pauladugyamfi.com](https://pauladugyamfi.com/)  
+Email - [pjadu7@gmail.com](pjadu7@gmail.com)
+
+
+##
 
 <div class="programmig">
   <img title="Javascript" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/48px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48">
@@ -32,26 +49,6 @@
   <img title="MongoDB" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-4-1175139.png"  width="48" height="48">
 
 </div>
-
-
-## Professional experience:
-**Inguo.io, Inc**  
-***Software Engineer Intern***  
-*May 2020 - present*
-
-
-**Stony Brook University Dept. of Communication & Marketing**  
-***Front End Software Engineer Intern***  
-*Feb 2020 - May 2020*
-
-
-## Contact Me
-
-LinkedIn - [Paul Adu-Gyamfi](https://www.linkedin.com/in/paul-adu-gyamfi/)   
-Personal site - [pauladugyamfi.com](https://pauladugyamfi.com/)  
-Email - [pjadu7@gmail.com](pjadu7@gmail.com)
-
-
 
 
 
