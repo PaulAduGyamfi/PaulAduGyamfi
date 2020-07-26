@@ -7,7 +7,7 @@
 
 
 **Stony Brook University Dept. of Communication & Marketing**  
-*Front End Software Engineer Intern*  
+*Software Engineer Intern*  
 
 
 
