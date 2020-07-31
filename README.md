@@ -1,4 +1,5 @@
 # Paul Adu-Gyamfi - @PaulAduGyamfi
+Hi, thanks for visiting my profile!. My name is Paul, I am currently a student at Stony Brook University, with experience in full-stack development designing high-quality applications centered around positive user experience.
 
 ## Professional experience:
 **Inguo.io, Inc.**  
