@@ -27,7 +27,7 @@ Email - [pjadu7@gmail.com](mailto:pjadu7@gmail.com)
   <img title="Java" src="https://www.probytes.net/wp-content/uploads/2019/07/java-logo-vector-768x768.png"  width="48" height="48">
 
 
-  <img title="React" src="https://cdn.worldvectorlogo.com/logos/react.svg"  width="48" height="48">
+  <img title="React" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" height="48">
 
 
   <img title="Node.js" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png"  width="80" height="48">
