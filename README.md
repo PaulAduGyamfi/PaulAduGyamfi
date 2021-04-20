@@ -47,7 +47,6 @@ Email - [pjadu7@gmail.com](mailto:pjadu7@gmail.com)
   
   <img title="Python" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png"  width="48" height="48">
 
-  <img title="MongoDB" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-4-1175139.png"  width="48" height="48">
 
 </div>
 
