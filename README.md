@@ -14,8 +14,7 @@ Hi, thanks for visiting my profile! My name is Paul, I am currently a student at
 
 ## Contact Me
 
-LinkedIn - [Paul Adu-Gyamfi](https://www.linkedin.com/in/paul-adu-gyamfi/)   
-Personal site - [pauladugyamfi.com](https://pauladugyamfi.com/)  
+LinkedIn - [Paul Adu-Gyamfi](https://www.linkedin.com/in/paul-adu-gyamfi/)    
 Email - [pjadu7@gmail.com](mailto:pjadu7@gmail.com)
 
 
